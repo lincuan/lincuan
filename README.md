@@ -11,7 +11,6 @@
 
 - Agent-based system design & communication protocols
 
-- Environmental bioengineering (e.g. Haematococcus pluvialis for sulfur removal & astaxanthin co-production)
 
 # 🛠️ Engineering Focus
 
