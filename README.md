@@ -1,22 +1,21 @@
-# 👋 Go by Rivers (川)  
+# 👋 go by rivers (川)  
 
-- I'm working on AI Acoustics & Control Systems Optimization.  
-- Passionate about AI, signal processing, and intelligent audio technologies.
+- i'm working on ai acoustics & control systems optimization.  
+- passionate about ai, signal processing, and intelligent audio technologies.
 
-# 🤩 Researching
+# 🤩 researching
 
-- Brain-Computer Interface (BCI) signal decoding
+- brain-computer interface signal decoding
 
-- Human–AI interaction (HCI) & Augmented Reality
-
-- Agent-based system design & communication protocols
+- human–ai interaction & augmented reality
 
 
-# 🛠️ Engineering Focus
 
-- System design > model tuning
+# 🛠️ engineering focus
 
-- Multi-agent protocols, identity architecture, digital trust
+- system design > model tuning
 
-- MATLAB, C++, Python, signal processing & structural modeling
+- multi-agent protocols, identity architecture, digital trust
+
+- matlab, c++, python, signal processing & structural modeling
 
